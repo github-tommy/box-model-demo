@@ -1,0 +1,10 @@
+body {
+   color: red;
+ }
+ img {
+   border: 2px dashed orange;
+   width: 25%;
+ }
+ *{
+   box-sizing: border-box;
+ }
